@@ -1,0 +1,32 @@
+.container{
+min-height: 5rem;
+padding: 1rem;
+background-color: #9984D4;
+border: 2px solid #230C33;
+border-radius: 2rem;
+}
+
+  .paren{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #CAA8F5;
+  }
+.colors{
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0rem;
+    text-align: center;
+}
+.colors label{
+    text-align: center;
+}
+button{
+    margin: 1rem 0rem;
+    width: 100%;
+    
+}
+*{
+    margin:  0;
+}
